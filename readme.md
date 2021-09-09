@@ -19,7 +19,7 @@ pip install openturns
 
 ### Tutorial
 
-Please read the jupyter notebook for more details to use FELIN: Launcher_Design_Problem.ipynb 
+Please read the different jupyter notebooks for more details to use RBDO_OT starting with: RBDO_analytical_case.ipynb 
 
 
 ## Built using
